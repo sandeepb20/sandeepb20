@@ -29,11 +29,3 @@ Here are some ideas to get you started:
 </table>
 <br>
 
-![](https://hit.yhype.me/github/profile?user_id=25745900)
-![](https://komarev.com/ghpvc/?username=sandeepb20&style=flat-square)
-
-
-<!---
-1-Harshit/1-Harshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
