@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m interested in Sleeping 
-- 🌱 I’m currently learning c++/ruby
+- 🌱 I’m currently learning c++/.js/java
 - 👯 Haven't collaborated anything :(
 - 📫 How to reach me [Contact Info](https://home.iitk.ac.in/~sandeepb20#contact)
 
