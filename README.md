@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me [Contact Info](https://home.iitk.ac.in/~sandeepb20#contact)
 
 
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=sandeepb20&show_icons=true&hide_border=true&hide=issues" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=6" /></th>
+  </tr>
+</table>
+<br>
