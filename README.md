@@ -29,10 +29,3 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <br>
-
-#### Hacktoberfest badge on DEV!
-<a href="https://dev.to/lakshita2002">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshita Mohanty's DEV Profile" height="30" width="30">
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&theme=light)](https://github.com/anuraghazra/github-readme-stats.vercel.api/top-langs?username=sandeepb20)
