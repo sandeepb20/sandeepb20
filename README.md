@@ -1,6 +1,6 @@
 ### Hi there 👋
 Glad you'r here!<br>
-![](https://komarev.com/ghpvc/?username=sandeepb20&color=white)<br>
+![](https://komarev.com/ghpvc/?username=sandeepb20&color=aqua)<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20) <br> ![](https://hit.yhype.me/github/profile?user_id=25745900)
 ![](https://komarev.com/ghpvc/?username=sandeepb20t&style=flat-square)
 
