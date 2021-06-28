@@ -1,9 +1,10 @@
 ### Hi there 👋
 Glad you'r here!<br>
-![](https://komarev.com/ghpvc/?username=sandeepb20&color=aqua)<br>
-![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20) <br> ![](https://hit.yhype.me/github/profile?user_id=25745900)
+![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20) <br>
+<!---![](https://komarev.com/ghpvc/?username=sandeepb20&color=aqua)<br>
+ ![](https://hit.yhype.me/github/profile?user_id=25745900)
 ![](https://komarev.com/ghpvc/?username=sandeepb20t&style=flat-square)
-
+-->
 <!--
 **sandeepb20/sandeepb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
