@@ -26,10 +26,7 @@ Here are some ideas to get you started:
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=8" /></th>
   </tr>
 </table>
-<br>
-![](https://komarev.com/ghpvc/?username=sandeepb20&color=green)
-<br>
-![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20)
+
 <br>
 ![](https://hit.yhype.me/github/profile?user_id=25745900)
 ![](https://komarev.com/ghpvc/?username=sandeepb20t&style=flat-square)
