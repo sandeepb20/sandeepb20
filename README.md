@@ -1,8 +1,7 @@
 ### Hi there 👋
 Glad you'r here!<br>
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20) <br> -->
-![](https://komarev.com/ghpvc/?username=sandeepb20&label=PROFILE+VIEWS&color=blue)<br>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=sandeepb20&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
 <!--
 **sandeepb20/sandeepb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
