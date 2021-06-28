@@ -1,6 +1,6 @@
 ### Hi there 👋
-Glad you'r here!
-
+Glad you'r here!<br>
+![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20)
 <!--
 **sandeepb20/sandeepb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
