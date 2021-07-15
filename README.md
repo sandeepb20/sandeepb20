@@ -27,4 +27,5 @@ Here are some ideas to get you started:
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=8" /></th>
   </tr>
 </table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20)](https://github.com/sandeepb20)
 
