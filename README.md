@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20)](https://github.com/sandeepb20)
+ 
 - 🔭 I’m interested in jumping in and trying out some coding
 - 🌱 I’m currently working on Deep Learning and also getting some insights on various programming Languages.
 - 📫 How to reach me [Contact Info](https://sandeepb20.github.io/#contact)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=sandeepb20&show_icons=true&hide_border=true&hide=issues" /></th>
-   <!-- <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=8" /></th> -->
+   <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=8" /></th> 
    
   </tr>
 </table>
