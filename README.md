@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-- 🔭 I’m interested in jumping in and trying out some coding
-- 🌱 I’m currently working on Deep Learning and also getting some insights on various programming Languages.
+- 🔭 I’m interested in jumping in and trying out some coding.
+- 🌱 I’m currently expanding my knowledge of Neural networks and Deep Learning.
+- 👯 I’m looking to collaborate on any RL project.
 - 📫 How to reach me [Contact Info](https://sandeepb20.github.io/#contact)
 
 <table style="width:100%">
